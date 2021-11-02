@@ -8,7 +8,7 @@
 
 Curso do Bootcamp Take Blip Fullstack Developer #2 da [Digital Innovation One](https://digitalinnovation.one/).
 
-Aprendendo de forma 100% prática a constuir uma arquitetura base para uma aplicação .NET do zero.
+Aprendendo de forma 100% prática a construir uma arquitetura base para uma aplicação .NET do zero.
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
