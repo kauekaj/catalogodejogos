@@ -26,3 +26,10 @@ C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\A
 C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ref\ApiCatalogoJogos.dll
 C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.pdb
 C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.genruntimeconfig.cache
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kauek\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\bin\Debug\net5.0\ApiCatalogoJogos.xml
